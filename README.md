@@ -25,6 +25,9 @@ This project automates the extraction of information from exam title sheets usin
 
 <img src="photos/flowchart pre-processing" alt="Image 1" style="width: 35%;">
 
+<img src="photos/contour detection of preprocessed image" alt="Image 1" style="width: 35%;">
+
+
 ## Tech Stack
 
 - **OpenCV** — image preprocessing, contour detection, text/table localization
