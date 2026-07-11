@@ -19,8 +19,8 @@ This project automates the extraction of information from exam title sheets usin
 6. **Export** — saves the final, verified data to an Excel file
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="photos/program interface" alt="Image 1" style="width: 70%;">
-  <img src="photos/physical program setup" alt="Image 2" style="width: 28%;">
+  <img src="photos/program interface" alt="Image 1" style="width: 50%;">
+  <img src="photos/physical program setup" alt="Image 2" style="width: 50%;">
 </div>
 
 ## Tech Stack
