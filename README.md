@@ -1,6 +1,11 @@
 # Handwriting and Text recognition program with [TrOCR](https://huggingface.co/docs/transformers/model_doc/trocr) Model
 Seminar Paper with KIT AIFB: Automated Extraction of Exam Information: An image to text Program for Efficient Student and Score Recognition
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="photos/program interface" alt="Image 1" style="width: 45%;">
+  <img src="photos/physical program setup" alt="Image 2" style="width: 45%;">
+</div>
+
 ## Motivation
 
 At University, lecturers and tutors routinely spend hours manually digitizing graded paper exams by transcribing final scores, individual exercise points, and student information into Excel spreadsheets by hand. This project was motivated by the goal of speeding up that process by automatically recognizing and extracting this information, the only remaining human task is a final verification.
@@ -18,10 +23,6 @@ This project automates the extraction of information from exam title sheets usin
 5. **Review & Edit** — presents results in a simple **FastAPI**-based interface for manual correction
 6. **Export** — saves the final, verified data to an Excel file
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="photos/program interface" alt="Image 1" style="width: 50%;">
-  <img src="photos/physical program setup" alt="Image 2" style="width: 50%;">
-</div>
 
 ## Tech Stack
 
