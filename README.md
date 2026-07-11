@@ -23,6 +23,7 @@ This project automates the extraction of information from exam title sheets usin
 5. **Review & Edit** — presents results in a simple **FastAPI**-based interface for manual correction
 6. **Export** — saves the final, verified data to an Excel file
 
+<img src="photos/flowchart pre-processing" alt="Image 1" style="width: 35%;">
 
 ## Tech Stack
 
