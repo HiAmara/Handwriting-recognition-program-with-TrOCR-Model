@@ -1,4 +1,4 @@
-# Handwriting and Text recognition program with TrOCR Model
+# Handwriting and Text recognition program with [TrOCR](https://huggingface.co/docs/transformers/model_doc/trocr) Model
 Seminar Paper with KIT AIFB: Automated Extraction of Exam Information: An image to text Program for Efficient Student and Score Recognition
 
 ## Motivation
