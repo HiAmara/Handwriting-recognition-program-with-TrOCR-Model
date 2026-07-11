@@ -2,7 +2,7 @@
 Seminar Paper with KIT AIFB: Automated Extraction of Exam Information: An image to text Program for Efficient Student and Score Recognition
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="photos/program interface" alt="Image 1" style="width: 45%;">
+  <img src="photos/program interface" alt="Image 1" style="width: 35%;">
   <img src="photos/physical program setup" alt="Image 2" style="width: 45%;">
 </div>
 
