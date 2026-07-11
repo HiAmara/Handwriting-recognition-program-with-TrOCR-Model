@@ -46,3 +46,5 @@ This is a seminar project / proof of concept. Planned improvements include:
 ## Privacy Note
 
 All processing and data storage happened locally, avoiding upload of sensitive student information to external services.
+
+Due to usage rights of the institute the code cannot be published. 
